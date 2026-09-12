@@ -289,18 +289,7 @@ For the standalone version:
 ```bash
 python3 -m http.server 8000
 ```
-
----
-
-# 📸 Screenshots & Demo Assets
-
-The repository includes UI screenshots, a GIF demonstration, and a full MP4 demonstration in the project root and `screenshots/` directory.
-
----
-
-# 📄 License
-
-Add your preferred open-source or proprietary license before publishing this repository.
+.
 
 ---
 
